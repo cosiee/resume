@@ -1,0 +1,4 @@
+{
+    "livePreview.defaultPreviewPath": "/Calculator/cal.html",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
